@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BANDAI2003
+D Bandai 2003 Mapper, LQFP-48
+$ENDCMP
+#
+$CMP GIZA
+D ROHM Battery Backup, SOP-8
+$ENDCMP
+#
+$CMP MBM29DL400TC
+D Fujitsu 4Mb (512Kx8/256Kx16) Flash Memory, TSOP-I-48
+$ENDCMP
+#
+$CMP S3511A
+D Seiko Real-time Clock, SSOP-8
+$ENDCMP
+#
+$CMP UPD442000A
+D NEC 2Mb (256Kx8) CMOS Static RAM, STSOP-32
+$ENDCMP
+#
+$CMP WSCE
+D WonderSwan Cartridge Edge
+$ENDCMP
+#
+#End Doc Library
