@@ -1,5 +1,4 @@
-# WonderWitch
-WonderWitch Reproduction
+# WonderWitch Reproduction
 
 ![KiCad PCB](Images/KiCad_PCB.JPG)
 
